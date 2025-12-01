@@ -1,7 +1,7 @@
 #!/bin/bash
 # Overclocked Pi 5 @2.8GHz — server RAM allocation increased
 
-RAMSIZE="5G"
+RAMSIZE="6G"
 JAVA_EXE="java"
 JAR_FILE="paper-1.12.2.jar"
 
